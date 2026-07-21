@@ -8,6 +8,7 @@
 
 <br>
 
+
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **IFBaiano - Campus Guanambi/BA**
 - ⚔️ Curioso por natureza, sempre estudando novas tecnologias e boas práticas de código
 - 📍 Guanambi, Bahia — Brasil
@@ -38,6 +39,8 @@
 </div>
 
 <br>
+
+
 
 <div align="center">
 
