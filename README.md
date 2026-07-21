@@ -8,7 +8,6 @@
 
 <br>
 
-
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **IFBaiano - Campus Guanambi/BA**
 - ⚔️ Curioso por natureza, sempre estudando novas tecnologias e boas práticas de código
 - 📍 Guanambi, Bahia — Brasil
@@ -34,12 +33,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MiqueiasNogueira&hide_border=true&background=0A0A0A&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=808080" width="60%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MiqueiasNogueira&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15&column=6" width="90%"/>
 
 </div>
 
 <br>
-
 
 <div align="center">
 
