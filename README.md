@@ -8,16 +8,12 @@
 
 <br>
 
-### 🧑‍💻 Sobre mim
-
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **IFBaiano - Campus Guanambi/BA**
 - ⚔️ Curioso por natureza, sempre estudando novas tecnologias e boas práticas de código
 - 📍 Guanambi, Bahia — Brasil
 - 💬 Me chama pra trocar ideia sobre tecnologia ou colaborar em algum projeto!
 
 <br>
-
-### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -33,8 +29,6 @@
 
 <br>
 
-### 📊 Estatísticas do GitHub
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MiqueiasNogueira&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF0000&icon_color=FF0000&text_color=E6E6E6&border_radius=10" width="48%"/>
@@ -47,8 +41,6 @@
 </div>
 
 <br>
-
-### 🔗 Conecte-se comigo
 
 <div align="center">
 
